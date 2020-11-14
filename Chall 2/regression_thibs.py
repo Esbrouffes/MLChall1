@@ -4,7 +4,7 @@ Created on Wed Nov 11 13:35:00 2020
 
 @author: YBlachonpro
 """
-import pandas as pd
+import pandas as pd 
 import sklearn as sk
 from sklearn import linear_model , tree , metrics, preprocessing
 import matplotlib.pyplot as plt
